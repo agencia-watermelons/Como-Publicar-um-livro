@@ -14,6 +14,7 @@ Segue o modelo:
 3 - Adicione as tags:
 
 < ?!= HtmlService.createHtmlOutputFromFile('Código CSS').getContent();?>
+
 < ?!= HtmlService.createHtmlOutputFromFile('Código Javascript').getContent();?>
 
 O idea é ficar semelhante a esta estrutura:
