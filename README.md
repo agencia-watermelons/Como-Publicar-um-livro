@@ -1,4 +1,4 @@
-#Organizando seu código google app script
+#Organize seu código google app script
 
 
 A ideia deste projeto é mostrar como organizar de forma satisfatória seus códigos feito no GAS.
