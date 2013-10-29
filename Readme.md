@@ -7,7 +7,7 @@ Follows the model:
 
 1 - Create a structure following the pattern below:
 
-! [Screenshot] (https://googledrive.com/host/0B7QP5NL8v9h6bTY4VEhPdWJzWUk)
+![ScreenShot](https://googledrive.com/host/0B7QP5NL8v9h6bTY4VEhPdWJzWUk)
 
 2 - Create files. Html for your html, javascript and css;
 
@@ -18,15 +18,15 @@ Follows the model:
 <?! HtmlService.createHtmlOutputFromFile = ('Javascript code'). GetContent ();?>
 
 The ideal is to be like this structure:
-`` `html
-'<?! HtmlService.createHtmlOutputFromFile = (' CSS Code '). GetContent ();?>
+```html
+'<?!= HtmlService.createHtmlOutputFromFile('Código CSS').getContent(); ?>
 
 <body>
-   <div>
+  <div>
 
-   </ div>
-</ body>
+  </div>
+</body>
 
-'<?! HtmlService.createHtmlOutputFromFile = (' Javascript code '). GetContent ();?>
-`` `
+'<?!= HtmlService.createHtmlOutputFromFile('Código Javascript').getContent(); ?>
+```
 Access the complete code in GAS [Clicking](https://script.google.com/a/macros/livrorapido.com.br/d/1RQSUC4KQRH6aZvBv-BXxfrjN372pSQZOc2-afkk4Dlf9vwgw3ypPWZyl/edit?template=default&folder=0ALQP5NL8v9h6Uk9PVA&usp=drive_web)
