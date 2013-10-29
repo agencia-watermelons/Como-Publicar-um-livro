@@ -1,3 +1,0 @@
-function fucao1() {
-  
-}
