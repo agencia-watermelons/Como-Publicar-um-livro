@@ -17,7 +17,7 @@ Segue o modelo:
 
 < ?!= HtmlService.createHtmlOutputFromFile('Código Javascript').getContent();?>
 
-O idea é ficar semelhante a esta estrutura:
+O ideal é ficar semelhante a esta estrutura:
 ```html
 '<?!= HtmlService.createHtmlOutputFromFile('Código CSS').getContent(); ?>
 
