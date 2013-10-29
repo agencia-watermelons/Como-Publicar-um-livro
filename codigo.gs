@@ -1,0 +1,8 @@
+/*
+  Váriaveis globais
+*/
+
+
+function codigoPrincipal() {
+  
+}
